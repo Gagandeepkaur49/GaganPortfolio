@@ -1,4 +1,3 @@
-import React from 'react';
 import './About.css';
 import GlassWrapper from './GlassWrapper';
 // import myImage from '/images/gagan.png'; // Assuming gagan.png is in public/images

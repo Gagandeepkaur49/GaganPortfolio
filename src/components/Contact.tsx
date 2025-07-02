@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaGithub, FaLinkedinIn, FaTwitter, FaFacebookF } from 'react-icons/fa';
 import { MdEmail, MdPhone, MdLocationOn } from 'react-icons/md';
 // The CSS will be in App.css

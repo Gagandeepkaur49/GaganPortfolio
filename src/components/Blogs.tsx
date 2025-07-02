@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaHeart, FaComment } from 'react-icons/fa';
 // import './Blogs.css'; // This was causing an error, styles are in App.css
 

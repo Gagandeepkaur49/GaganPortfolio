@@ -1,7 +1,6 @@
-import React from 'react';
+import { FaUserGraduate } from 'react-icons/fa';
 import Lottie from 'lottie-react';
 import animationData from '../assets/lotties/looty2.json';
-import { FaUserGraduate } from 'react-icons/fa';
 
 const educationHistory = [
   {

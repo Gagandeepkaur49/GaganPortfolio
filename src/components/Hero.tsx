@@ -50,7 +50,7 @@ const Hero = () => {
                   2000,
                   '',
                 ]}
-                wrapper={"pre" as string}
+                wrapper="pre"
                 speed={50}
                 style={{ fontSize: '0.85em', display: 'inline-block', whiteSpace: 'pre-wrap' }}
                 repeat={Infinity}
