@@ -1,4 +1,3 @@
-import React from 'react';
 import { HomeIcon, UserIcon, ChartPieIcon, AcademicCapIcon, DocumentTextIcon, BriefcaseIcon } from '@heroicons/react/24/solid';
 import './Header.css';
 import { Link, useLocation } from 'react-router-dom';

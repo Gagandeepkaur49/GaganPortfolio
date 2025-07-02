@@ -1,4 +1,3 @@
-import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaTwitter, FaFacebookF, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import './Hero.css';
@@ -51,7 +50,7 @@ const Hero = () => {
                   2000,
                   '',
                 ]}
-                wrapper="pre"
+                wrapper={"pre" as string}
                 speed={50}
                 style={{ fontSize: '0.85em', display: 'inline-block', whiteSpace: 'pre-wrap' }}
                 repeat={Infinity}

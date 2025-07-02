@@ -1,4 +1,3 @@
-import React from 'react';
 import GlassWrapper from '../components/GlassWrapper';
 
 const ResumePage = () => (

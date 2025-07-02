@@ -1,4 +1,3 @@
-import React from 'react';
 import Lottie from 'lottie-react';
 import animationData from '../assets/lotties/looty1.json';
 import { FaUserTie } from 'react-icons/fa';
