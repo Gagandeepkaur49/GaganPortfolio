@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-import 'swiper/css/autoplay';
+// import 'swiper/css/autoplay';
 import { Autoplay } from 'swiper/modules';
 import {
   FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaNodeJs, FaDocker, FaAws
