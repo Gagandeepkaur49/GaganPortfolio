@@ -1,5 +1,5 @@
 // import React from 'react';
-import { FaStar, FaEnvelope, FaPhone, FaGithub, FaLinkedin, FaTwitter, FaHome, FaBlog, FaProjectDiagram } from 'react-icons/fa';
+import { FaStar, FaEnvelope, FaPhone, FaGithub, FaLinkedin, FaHome, FaBlog, FaProjectDiagram } from 'react-icons/fa';
 // import './Footer.css'; // Styles will be in App.css
 
 const Footer = () => {
