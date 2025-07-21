@@ -22,10 +22,10 @@ const Contact = () => {
         <div className="contact-details-container">
           <div className="contact-details-list">
             <div className="contact-detail-item">
-              <MdEmail /> <span>gagan@example.com</span>
+              <MdEmail /> <span>gagandeep492000@gmail.com</span>
             </div>
             <div className="contact-detail-item">
-              <MdPhone /> <span>+8801608797655</span>
+              <MdPhone /> <span>+91 8168732894</span>
             </div>
             <div className="contact-detail-item">
               <MdLocationOn /> <span>Middle Badda, Dhaka, Bangladesh - 1212</span>

@@ -5,6 +5,19 @@ import { FaUserTie } from 'react-icons/fa';
 
 const experiences = [
   {
+    date: '(Duration : 6 Months)',
+    title: 'Web Developer & Digital Marketing Executive',
+    company: 'Alphanumeric Ideas Pvt Ltd | Mohali',
+    details: [
+      'Led team task division and managed web development projects.',
+      'Converted clients through online platforms and offline meetings.',
+      'Created and presented reports to management.',
+      'Managed client relationships and provided ongoing support.',
+      'Learned and applied digital marketing strategies.',
+      'Monitored and improved online brand presence, engaging with users to strengthen customer relationships.'
+    ]
+  },
+  {
     date: '(Jan 2022 - Present)',
     title: 'SOFTWARE ENGINEER I',
     company: 'Teton Private Ltd.',
@@ -40,6 +53,13 @@ const Experience = () => {
                 <div className="experience-details">
                   <h3>{exp.title}</h3>
                   <p>{exp.company}</p>
+                  {exp.details && (
+                    <ul>
+                      {exp.details.map((item, idx) => (
+                        <li key={idx}>{item}</li>
+                      ))}
+                    </ul>
+                  )}
                 </div>
               </div>
             </div>

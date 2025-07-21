@@ -8,14 +8,14 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-section footer-brand">
           <p className="footer-title">&copy; Developer Portfolio by Gagan</p>
-          <a href="https://github.com/your-github-repo" target="_blank" rel="noopener noreferrer" className="footer-star-link">
+          <a href="https://github.com/Gagandeepkaur49" target="_blank" rel="noopener noreferrer" className="footer-star-link">
             <FaStar /> Star
           </a>
         </div>
         <div className="footer-section footer-contact">
           <h4>Contact</h4>
-          <p><FaEnvelope /> gagan@email.com</p>
-          <p><FaPhone /> +1 234 567 8901</p>
+          <p><FaEnvelope /> gagandeep492000@gmail.com</p>
+          <p><FaPhone /> +91-8168732894</p>
         </div>
         <div className="footer-section footer-links">
           <h4>Links</h4>
@@ -26,9 +26,9 @@ const Footer = () => {
         <div className="footer-section footer-social">
           <h4>Follow</h4>
           <div className='flex gap-4'>
-            <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaGithub /></a>
-            <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaLinkedin /></a>
-            <a href="https://twitter.com/your-twitter" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaTwitter /></a>
+            <a href="https://github.com/Gagandeepkaur49" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/gagandeep-kaur-7587a1319/" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaLinkedin /></a>
+            {/* <a href="https://twitter.com/your-twitter" target="_blank" rel="noopener noreferrer" className="footer-social-link"><FaTwitter /></a> */}
           </div>
         </div>
       </div>
